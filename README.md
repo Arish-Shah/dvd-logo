@@ -1,2 +1,2 @@
 # dvd-logo
-DVD logo sometimes hitting the corner.
+DVD logo sometimes hitting the corner of the screen.
