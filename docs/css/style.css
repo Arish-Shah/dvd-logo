@@ -1,0 +1,24 @@
+body {
+	overflow: hidden;
+	margin: 0;
+	background: #fff;
+}
+canvas {
+	background-color: #000;
+}
+#contact a {
+	font-family: monospace;
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
+	background: #111;
+	font-size: 14px;
+	padding: 4px;
+	color: #666;
+	text-decoration: none;
+}
+#contact a:hover {
+	background: #fff;
+	color: #000;
+	transition: all 0.2s ease;
+}
